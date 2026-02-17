@@ -12,7 +12,7 @@
 
 ---
 
-## 🧠 About Me
+## 💀 About Me
 
 ```js
 const ankon = {
@@ -33,7 +33,7 @@ const ankon = {
 
 ---
 
-## 🌐 Connect With Me
+## 💚 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/">
@@ -52,7 +52,7 @@ const ankon = {
 
 ---
 
-## 🚀 What I Do
+## 🖥️ What I Do
 
 <p align="center">
   Building clean & premium web experiences  
