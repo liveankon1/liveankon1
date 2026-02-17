@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-💻 Developer • ✨ BEST UI Design • 🚀 Web Designer 
+🟩 Developer • 🟨 BEST UI Design • 🟦 Web Designer 
 </p>
 
 ---
@@ -41,7 +41,7 @@ const ankon = {
 
 ---
 
-## 🌐 Connect With Me
+## 🛑 Connect With Me
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -60,7 +60,7 @@ const ankon = {
 
 ---
 
-## 🌌 Get to know me more
+## 💛 Get to know me more
 
 <p align="center">
   <a href="https://guns.lol/def_ankon" target="_blank">
