@@ -52,41 +52,38 @@ const ankon = {
 
 ---
 
-## 📊 GitHub Stats
+## ⚡ Developer Philosophy
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=liveankon1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liveankon1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <b>Clean Code.</b>  
+  <b>Smooth UI.</b>  
+  <b>Performance First.</b>
+</p>
+
+<p align="center">
+  I focus on building digital experiences that feel premium, responsive, and intentional.
 </p>
 
 ---
 
-## 🔥 Contribution Streak
+## 🌌 Currently Building
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=liveankon1&theme=tokyonight&hide_border=true&background=0D1117" />
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=liveankon1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
-</p>
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=liveankon1&style=for-the-badge&color=00F0FF" />
+  🚀 Modern Web Applications  
+  ✨ High-performance UI Systems  
+  🎯 Clean & Minimal Design Architecture  
 </p>
 
 ---
 
 <p align="center">
-  <i>⚡ Keep building. Keep improving. Stay consistent.</i>
+  <b>JavaScript • React • Next.js • Node • Python • UI Engineering</b>
+</p>
+
+---
+
+<p align="center">
+  ⚡ Keep building. Keep improving. Stay consistent.
 </p>
 
 ---
