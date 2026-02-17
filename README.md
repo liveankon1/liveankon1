@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:7C3AED&height=180&section=header&text=Ankon%20Universe&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:7C3AED&height=190&section=header&text=Ankon%20Universe&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h1 align="center">Hi, I'm Ankon 👋</h1>
@@ -7,12 +7,26 @@
 <h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
-  <b>Developer</b> • ⚡ <b>UI Enthusiast</b> • 🚀 <b>Creator</b>
+  💻 Developer • ⚡ UI Enthusiast • 🚀 Creator
 </p>
 
 ---
 
-## 💀 About Me
+## 🌌 Live Project
+
+<p align="center">
+  <a href="https://ankon-live-portal1-6txz.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20Ankon%20Live%20Portal-00F0FF?style=for-the-badge&logo=vercel&logoColor=black" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Experience my premium live portal — modern UI, smooth animations, clean design.</i>
+</p>
+
+---
+
+## 🧠 About Me
 
 ```js
 const ankon = {
@@ -33,7 +47,7 @@ const ankon = {
 
 ---
 
-## 💚 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/">
@@ -52,19 +66,11 @@ const ankon = {
 
 ---
 
-## 🖥️ What I Do
+## 🚀 What I Do
 
 <p align="center">
   Building clean & premium web experiences  
   Modern UI • Performance Optimization • Smooth UX  
-</p>
-
----
-
-## 🎯 Core Technologies
-
-<p align="center">
-  JavaScript • React • Next.js • Node.js • Python • Git
 </p>
 
 ---
