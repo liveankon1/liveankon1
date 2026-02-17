@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:7C3AED&height=190&section=header&text=Ankon%20Universe&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:7C3AED&height=200&section=header&text=Ankon%20Universe&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h1 align="center">Hi, I'm Ankon 👋</h1>
@@ -12,16 +12,16 @@
 
 ---
 
-## 🌌 Live Project
+# 🚀 LIVE PROJECT
 
 <p align="center">
   <a href="https://ankon-live-portal1-6txz.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀%20Ankon%20Live%20Portal-00F0FF?style=for-the-badge&logo=vercel&logoColor=black" />
+    <img src="https://img.shields.io/badge/🚀%20VISIT%20ANKON%20LIVE%20PORTAL-00F0FF?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0D1117" height="50"/>
   </a>
 </p>
 
 <p align="center">
-  <i>Experience my premium live portal — modern UI, smooth animations, clean design.</i>
+  <b>Premium UI • Smooth Animations • Modern Experience</b>
 </p>
 
 ---
@@ -62,15 +62,6 @@ const ankon = {
   <a href="https://discord.com/">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-</p>
-
----
-
-## 🚀 What I Do
-
-<p align="center">
-  Building clean & premium web experiences  
-  Modern UI • Performance Optimization • Smooth UX  
 </p>
 
 ---
