@@ -79,3 +79,14 @@ const ankon = {
 <p align="center">
   <i>⚡ Keep building. Keep improving. Stay consistent.</i>
 </p>
+
+---
+
+## 🕒 System Time
+
+<p align="center">
+  <img src="https://readme-dynamic-time.vercel.app/api?timezone=America/Chicago&bg=0D1117&fg=58A6FF&border=30363D&size=20" />
+</p>
+
+---
+
