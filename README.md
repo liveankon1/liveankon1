@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-💻 Developer • ✨ UI Enthusiast • 🚀 Creator
+💻 Developer • ✨ BEST UI Design • 🚀 Web Designer 
 </p>
 
 ---
