@@ -19,6 +19,12 @@
 
 ---
 
+---
+
+# **🌌 Get to know me → guns.lol/def_ankon**
+
+---
+
 ## 💀 About Me
 
 ```js
