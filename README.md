@@ -55,7 +55,7 @@ const ankon = {
 ## 💬 Quote
 
 <p align="center">
-  <i>❥ ೄChange the world by being yourself.࿐ ˊˎ-</i>
+  <i>❥ ೄ Change the world by being yourself. ࿐ ˊˎ-</i>
 </p>
 
 ---
@@ -69,45 +69,3 @@ const ankon = {
 </p>
 
 ---
-
-## 🧩 Skills & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,python,git,github,vscode,linux,figma&perline=7" />
-</p>
-
-<p align="center">
-  <sub>UI Design • Frontend • Backend • Performance • Clean Architecture</sub>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-<p align="center">
-  <b>1)</b> 🌐 <b>Ankon Live Portal</b> — modern UI portal experience  
-  <br/>
-  <a href="https://ankon-live-portal1-6txz.vercel.app/" target="_blank"><b>Open Live →</b></a>
-</p>
-
-<p align="center">
-  <b>2)</b> 🛠️ <b>Tools & Experiments</b> — UI concepts, components, small builds  
-</p>
-
-<p align="center">
-  <b>3)</b> ⚡ <b>Next Projects</b> — upcoming premium web experiences  
-</p>
-
----
-
-## ✨ What I’m About
-
-<p align="center">
-  <b>Clean UI</b> • <b>Smooth Animations</b> • <b>Premium Feel</b> • <b>Fast Performance</b>
-</p>
-
----
-
-<p align="center">
-  <i>⚡ Keep building. Keep improving. Stay consistent.</i>
-</p>
