@@ -52,46 +52,20 @@ const ankon = {
 
 ---
 
-## ⚡ Developer Philosophy
+## 💬 Quote
 
 <p align="center">
-  <b>Clean Code.</b>  
-  <b>Smooth UI.</b>  
-  <b>Performance First.</b>
-</p>
-
-<p align="center">
-  I focus on building digital experiences that feel premium, responsive, and intentional.
+  <i>❥ ೄ Change the world by being yourself. ࿐ ˊˎ-</i>
 </p>
 
 ---
 
-## 🌌 Currently Building
+## 🌌 Get to know me more
 
 <p align="center">
-  🚀 Modern Web Applications  
-  ✨ High-performance UI Systems  
-  🎯 Clean & Minimal Design Architecture  
-</p>
-
----
-
-<p align="center">
-  <b>JavaScript • React • Next.js • Node • Python • UI Engineering</b>
-</p>
-
----
-
-<p align="center">
-  ⚡ Keep building. Keep improving. Stay consistent.
-</p>
-
----
-
-## 🕒 System Time
-
-<p align="center">
-  <img src="https://readme-dynamic-time.vercel.app/api?timezone=America/Chicago&bg=0D1117&fg=58A6FF&border=30363D&size=20" />
+  <a href="https://guns.lol/def_ankon" target="_blank">
+    <b>Get to know me → guns.lol/def_ankon</b>
+  </a>
 </p>
 
 ---
