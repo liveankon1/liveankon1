@@ -1,11 +1,11 @@
-<h1 align="center">Hi, I'm Ankon 👋</h1>
+<h1 align="center">Hi, I'm Ankon 💚 </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Modern+UI+Designer;Building+Clean+%26+Premium+Experiences;Always+Learning+New+Tech" />
 </p>
 
 <p align="center">
-💻 Developer • ⚡ UI Enthusiast • 🚀 Creator
+💻 Developer • ✨ UI Enthusiast • 🚀 Creator
 </p>
 
 ---
@@ -19,7 +19,7 @@
 
 ---
 
-## 🧠 About Me
+## 💀 About Me
 
 ```js
 const ankon = {
@@ -33,7 +33,7 @@ const ankon = {
 
 ---
 
-## 🛠️ Tech Stack
+## 🖥️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,python,git,github,vscode,linux&perline=6" />
