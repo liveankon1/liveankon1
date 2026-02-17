@@ -50,9 +50,10 @@ const ankon = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=liveankon1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=FFFFFF" />
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=liveankon1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=liveankon1&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liveankon1&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
+
 
 ---
 
@@ -67,8 +68,9 @@ const ankon = {
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=liveankon1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=liveankon1&theme=tokyonight&no-frame=true&margin-w=10&column=6&cache_seconds=86400" />
 </p>
+
 
 ---
 
