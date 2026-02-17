@@ -52,7 +52,7 @@ const ankon = {
 
 ---
 
-## 💬 Quote
+## 🍷 Quote 
 
 <p align="center">
   <i>❥ ೄ Change the world by being yourself. ࿐ ˊˎ-</i>
