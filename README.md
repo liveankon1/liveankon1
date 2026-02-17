@@ -1,3 +1,5 @@
+<h1 align="center">Hi, I'm Ankon 💚 </h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Modern+UI+Designer;Building+Clean+%26+Premium+Experiences;Always+Learning+New+Tech" />
 </p>
@@ -9,7 +11,7 @@
 ---
 
 <p align="center">
-  <b>🌐 Live Portal:</b>
+  <b>🌐 Live Portal:</b>  
   <a href="https://ankon-live-portal1-6txz.vercel.app/" target="_blank">
     <b>ankon-live-portal1-6txz.vercel.app</b>
   </a>
@@ -67,3 +69,4 @@ const ankon = {
 </p>
 
 ---
+
